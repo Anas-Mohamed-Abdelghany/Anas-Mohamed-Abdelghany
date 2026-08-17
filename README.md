@@ -69,7 +69,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
