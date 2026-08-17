@@ -275,16 +275,34 @@ Neonatal incubator system with real-time thermoregulation control.
 </div>
 
 ---
+<div align="center">
 
 ## 📬 Contact Information
 
-| Platform | Contact Details |
-|---|---|
-| 📧 **Personal Email** | [anasmohamed02468@gmail.com](mailto:anasmohamed02468@gmail.com) |
-| 📧 **Academic Email** | [anas.bayoumi05@eng-st.cu.edu.eg](mailto:anas.bayoumi05@eng-st.cu.edu.eg) |
-| 💼 **LinkedIn** | [linkedin.com/in/Anas-Mohamed](https://www.linkedin.com/in/Anas-Mohamed) |
-| 🐙 **GitHub** | [github.com/Anas-Mohamed-Abdelghany](https://github.com/Anas-Mohamed-Abdelghany) |
-| 📍 **Location** | Giza, Egypt |
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="right" style="border: none;">📧 <b>Personal Email:</b></td>
+    <td align="left" style="border: none;"><a href="mailto:anasmohamed02468@gmail.com">anasmohamed02468@gmail.com</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none;">🎓 <b>Academic Email:</b></td>
+    <td align="left" style="border: none;"><a href="mailto:anas.bayoumi05@eng-st.cu.edu.eg">anas.bayoumi05@eng-st.cu.edu.eg</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none;">💼 <b>LinkedIn:</b></td>
+    <td align="left" style="border: none;"><a href="https://www.linkedin.com/in/Anas-Mohamed">linkedin.com/in/Anas-Mohamed</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none;">🐙 <b>GitHub:</b></td>
+    <td align="left" style="border: none;"><a href="https://github.com/Anas-Mohamed-Abdelghany">github.com/Anas-Mohamed-Abdelghany</a></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none;">📍 <b>Location:</b></td>
+    <td align="left" style="border: none;">Giza, Egypt</td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
 
