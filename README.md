@@ -39,6 +39,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
 ## 🛠 Languages & Tools
 
 <div align="left">
+  <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -57,23 +58,45 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
+
+  <!-- AI, ML & NLP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" height="40" alt="xgboost logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="huggingface logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" alt="langchain logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weightsandbiases/weightsandbiases-original.svg" height="40" alt="wandb logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/assets/ollama.png" height="40" alt="ollama logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="32" alt="yolo logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/RAG-AI%20Retrieval-2563EB?style=for-the-badge" height="32" alt="rag logo" />
+  <img width="12" />
+
+  <!-- Data Science & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
+
+  <!-- Frameworks & Backends -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -83,14 +106,20 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
+
+  <!-- Databases & Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
+
+  <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
@@ -104,6 +133,16 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" />
+  <br/><br/>
+
+  <!-- Concepts & Architecture -->
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" height="32" alt="dsa logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-007ACC?style=for-the-badge" height="32" alt="oop logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/SOLID-Principles-10B981?style=for-the-badge" height="32" alt="solid logo" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-Software%20Arch-4B5563?style=for-the-badge" height="32" alt="design patterns logo" />
 </div>
 
 ---
