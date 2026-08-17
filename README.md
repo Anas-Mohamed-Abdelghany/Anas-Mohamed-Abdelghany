@@ -39,7 +39,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
 ## 🛠 Languages & Tools
 
 <div align="left">
-  <!-- Core Languages -->
+  <!-- Core Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -59,31 +59,31 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
 
-  <!-- AI, ML & NLP -->
+  <!-- AI, Machine Learning & LLMs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xgboost/xgboost-original.svg" height="40" alt="xgboost logo" />
+  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/_static/xgboost.png" height="40" alt="xgboost logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="40" alt="huggingface logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" alt="langchain logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weightsandbiases/weightsandbiases-original.svg" height="40" alt="wandb logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/assets/ollama.png" height="40" alt="ollama logo" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="langchain logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="32" alt="wandb logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="32" alt="ollama logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" height="32" alt="yolo logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/RAG-AI%20Retrieval-2563EB?style=for-the-badge" height="32" alt="rag logo" />
   <img width="12" />
 
-  <!-- Data Science & Libraries -->
+  <!-- Data Science & Visualization -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
@@ -93,7 +93,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
 
-  <!-- Frameworks & Backends -->
+  <!-- Web, Backends & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -107,7 +107,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
 
-  <!-- Databases & Embedded -->
+  <!-- Databases & Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
