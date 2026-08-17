@@ -8,9 +8,9 @@
 
 # Anas Mohamed
 
-**AI & Machine Learning Engineer · Biomedical Engineer · Full-Stack & Embedded Systems**
+**AI & Machine Learning Engineer · Biomedical Engineer · Full-Stack**
 
-Cairo University — Faculty of Engineering (Biomedical Engineering) · Giza, Egypt
+Cairo University — Faculty of Engineering · Giza, Egypt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anas-Mohamed)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.bayoumi05@eng-st.cu.edu.eg)
@@ -30,7 +30,7 @@ Cairo University — Faculty of Engineering (Biomedical Engineering) · Giza, Eg
 
 💡 I'm an **AI & Biomedical Engineer** specializing in **Deep Learning, Computer Vision, Signal Classification, and Embedded Medical Hardware**.
 
-🎓 Studying **Biomedical Engineering** at **Cairo University** (GPA: 3.31/3.35). My work bridges applied AI models (RAG, PyTorch, YOLO, Transformers) with production software backends and hardware systems.
+🎓 Studying **Biomedical Engineering** at **Cairo University** (GPA: 3.31). My work bridges applied AI models (RAG, PyTorch, YOLO, Transformers) with production software backends and hardware systems.
 
 🔬 **Key Technical Focus Areas**:
 - **Medical AI & Imaging**: 3D DICOM/NIfTI rendering, Sinus Endoscopy classification, multi-domain signal processing (ECG, EEG, acoustic).
@@ -44,7 +44,7 @@ Cairo University — Faculty of Engineering (Biomedical Engineering) · Giza, Eg
 
 ## 🛠 Languages & Tools
 
-<div align="left">
+<div align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
   <img width="8" />
