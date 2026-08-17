@@ -222,6 +222,29 @@ Neonatal incubator system with real-time thermoregulation control.
 
 ---
 
+### 🤝 Volunteering & Student Leadership
+
+[![ALX Africa](https://img.shields.io/badge/ALX-Africa%20Voltra-00629B?style=flat&logo=google-classroom&logoColor=white)](https://www.alxafrica.com/)  
+**Community Engagement Volunteer · Voltra Program** *(Apr 2026 – Present)*  
+• Won 2nd place in a competitive challenge to design and pitch impactful community events for ALX learners.  
+• Co-coordinate weekly technical workshops and networking events to foster community growth.  
+
+[![TCCD](https://img.shields.io/badge/TCCD-Technical%20Center%20for%20Career%20Development-D14836?style=flat&logo=meetup&logoColor=white)](https://www.linkedin.com/)  
+**Operations & Logistics Team Member** *(Oct 2023 – Jun 2026)*  
+• Directed 5+ career events for 8,000+ attendees, increasing overall engagement by 15% through optimized logistics.  
+• Spearheaded Job Fair promotional campaigns at Cairo University, driving a 20% increase in participant enrollment.  
+
+[![DOSS](https://img.shields.io/badge/DOSS-Developing%20Organized%20Students%20Society-2E7D32?style=flat&logo=group&logoColor=white)](https://www.linkedin.com/)  
+**Training & Development / Organizing Committee Member** *(Feb 2024 – Jan 2025)*  
+• Facilitated 8+ professional development training sessions and 10+ workshops, enhancing student career readiness.  
+• Mentored students in leadership development and effective technical collaboration.  
+
+[![Pascal Academy](https://img.shields.io/badge/Pascal%20Academy-Mecha%20Magic-E65100?style=flat&logo=eventbrite&logoColor=white)](https://www.linkedin.com/)  
+**Partners Organizing Team Member** *(Feb 2025)*  
+• Coordinated event logistics for partner liaisons and managed crowd flow for peak event attendance.
+
+---
+
 ## 🏆 Competitions & Hackathons
 
 - **Solship Hackathon (Zewail City)** — *May 2026*: Built a hybrid energy optimizer combining LightGBM/LSTM forecasts with rolling-horizon Model Predictive Control (MPC).
