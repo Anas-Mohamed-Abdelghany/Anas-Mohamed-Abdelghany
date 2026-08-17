@@ -66,7 +66,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/_static/xgboost.png" height="40" alt="xgboost logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" height="40" alt="xgboost logo" />
   <img width="12" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo" />
   <img width="12" />
