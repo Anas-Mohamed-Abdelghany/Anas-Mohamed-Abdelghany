@@ -38,7 +38,7 @@ Cairo University — Faculty of Engineering · Giza, Egypt
 
 ## 🛠 Languages & Tools
 
-<div align="center">
+<div>
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
   <img width="8" />
