@@ -6,7 +6,7 @@
 
 Cairo University — Faculty of Engineering · Giza, Egypt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Anas-Mohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-mohamed-716959313)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.bayoumi05@eng-st.cu.edu.eg)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Mohamed-Abdelghany)
 
@@ -329,7 +329,7 @@ Neonatal incubator system with real-time thermoregulation control.
   </tr>
   <tr style="border: none;">
     <td align="right" style="border: none;">💼 <b>LinkedIn:</b></td>
-    <td align="left" style="border: none;"><a href="https://www.linkedin.com/in/Anas-Mohamed">linkedin.com/in/Anas-Mohamed</a></td>
+    <td align="left" style="border: none;"><a href="https://www.linkedin.com/in/anas-mohamed-716959313">linkedin.com/in/Anas-Mohamed</a></td>
   </tr>
   <tr style="border: none;">
     <td align="right" style="border: none;">🐙 <b>GitHub:</b></td>
