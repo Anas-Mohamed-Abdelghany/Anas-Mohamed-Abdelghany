@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README for Anas Mohamed
-  Repo Name MUST be: Anas-Mohamed-Abdelghany
-  File: README.md
--->
-
 <div align="center">
 
 # Anas Mohamed
@@ -243,11 +237,6 @@ Neonatal incubator system with real-time thermoregulation control.
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anas-Mohamed-Abdelghany&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=2563EB&icon_color=2563EB" alt="Anas's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Mohamed-Abdelghany&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=2563EB" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Anas-Mohamed-Abdelghany&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" />
